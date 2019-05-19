@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+  font-family: Arial;
+}
+
+hr {
+  border-color: lightgray;
+  border-style: dotted hidden hidden;
+  border-width:7px;
+  width: 5%;
+}
+
+h1 {
+  color:#66BFBF;
+}
+
+h3 {
+  color:#66BFBF;
+}
+
+.circular {border-radius: 100%;}
